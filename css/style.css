@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.topo {
+  display: grid;
+  grid-template-columns: 11% 80%;
+  background: #003d3e;
+  align-items: center;
+}
+
+.escrita {
+  height: 130px;
+  width: 90%;
+  /* padding: 10px 0px; */
+  padding-left: 150px;
+}
+
+.logo {
+  border-radius: 0% 0% 10% 10%;
+}
+body {
+  background-color: aquamarine;
+}
+img.escrita {
+  width: 50%;
+  height: auto;
+  margin: auto;
+}
+.menina {
+  width: 200px;
+  margin: auto;
+}
+
+.menina img {
+  width: 100%;
+}
