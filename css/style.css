@@ -5,7 +5,7 @@
 
 .topo {
   display: grid;
-  grid-template-columns: 11% 80%;
+  grid-template-columns: 11% 100%;
   background: #003d3e;
   align-items: center;
 }
@@ -17,7 +17,8 @@
   padding-left: 150px;
 }
 
-.logo {
+.logo img {
+  border-radius: 0% 0% 10% 10%;
 }
 body {
   background-color: #02494b;
