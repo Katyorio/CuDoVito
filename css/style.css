@@ -5,7 +5,7 @@
 
 .topo {
   display: grid;
-  grid-template-columns: 11% 100%;
+  grid-template-columns: 10% 80%;
   background: #003d3e;
   align-items: center;
 }
